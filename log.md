@@ -1,13 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: November 4, 2024 
+**Today's Progress**: Started the odin prject, started 100 Days of Code
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** Feeling pretty motivated, i hope it turns out well.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** www.theodinproject.com
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
